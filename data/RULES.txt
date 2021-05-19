@@ -1,0 +1,4 @@
+Minesweeper<br>
+in this 10x10 grid, there are 10 mines. You have to avoid the bombs and empty all the other tiles.<br>
+to empty a tile, left click on it. To flag a tile (if you suspect a mine there), right click on it<br>
+Try to clear the level ASAP to feature on the leaderboards.

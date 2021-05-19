@@ -1,0 +1,82 @@
+* {
+  padding: 0;
+  margin: 0;
+  background-color: white;
+}
+
+.timer {
+  display: flex;
+  justify-content: space-around;
+  flex-direction: column;
+}
+
+.kuc {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.cuk {
+  display: flex;
+  justify-content: space-around;
+  flex-direction: column;
+}
+
+.time_label {
+  position: absolute;
+  top: 10%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 48px;
+  color: black;
+}
+.glob_label {
+  position: absolute;
+  top: 5%;
+  left: 75%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 40px;
+  color: black;
+}
+.flag_label {
+  position: absolute;
+  top: 70%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 48px;
+  color: black;
+}
+.loc_label {
+  position: absolute;
+  top: 70%;
+  left: 75%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 40px;
+  color: black;
+}
+.reset {
+  position: absolute;
+  top: 90%;
+  left: 75%;
+  display: flex;
+  visibility: hidden;
+  align-items: center;
+  justify-content: center;
+  font-size: 30px;
+  color: black;
+}
+.zer {
+    left: 75%;
+}
+
+canvas {
+  background: black;
+  display: block;
+  margin: 0 auto;
+}
