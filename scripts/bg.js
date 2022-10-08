@@ -426,6 +426,7 @@ function winchk() {
     console.log(finaltime);
     checkHighScore((finalm*60)+finals); 
   }
+  console.log(statecount);
 }
 function losschk()
 {
